@@ -6,6 +6,7 @@ p{
 
    color:yellow;
    font-size:12px; 
+   background:black
 
 }
 h1{
@@ -14,9 +15,13 @@ h1{
 h2{
    font-size:14px;
 }
+li{
+   font-size:14px;
+
+}
 img{
    
-      border-width:2px;
+      border:2px solid red;
       border-color:red;
    
 }
