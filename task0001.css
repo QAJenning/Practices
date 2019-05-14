@@ -2,13 +2,17 @@ span{
      color:red;
      font-size:20px;
 }
-p{
-
+.motto{
    color:yellow;
    font-size:12px; 
    background:black
-
 }
+.inspiration{
+   color:black;
+   font-size:12px; 
+   
+}
+
 h1{
    color:blue
 }
@@ -22,6 +26,15 @@ li{
 img{
    
       border:2px solid red;
-      border-color:red;
-   
+      border-color:red;  
+}
+#div_red{
+         padding:100px;
+         background:red;
+         margin:10px auto;
+}
+#div_blue{
+         padding:100px;
+         background:blue;
+         margin:10px auto;
 }
