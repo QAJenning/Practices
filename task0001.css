@@ -29,9 +29,13 @@ img{
       border-color:red;  
 }
 #div_red{
-         padding:100px;
+         padding:20px;
+         margin:20px auto; /* 水平居中处理*/
          background:red;
-         margin:10px auto;
+         width:200px;
+         height:200px;
+
+         
 }
 #div_blue{
          padding:100px;
