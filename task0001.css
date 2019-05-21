@@ -29,16 +29,16 @@ img{
       border-color:red;  
 }
 #div_red{
-         padding:20px;
+         /* padding:20px; */
          margin:20px auto; /* 水平居中处理*/
          background:red;
-         width:200px;
-         height:200px;
+         width:960px;
+         height:960px;
 
          
 }
 #div_blue{
-         padding:100px;
+         padding:960px;
          background:blue;
          margin:10px auto;
 }
